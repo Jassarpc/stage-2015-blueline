@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/item_navigation_drawer_home"
+            android:icon="@drawable/home"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/item_navigation_drawer_my_docs"
+            android:icon="@drawable/documents"
+            android:title="@string/doctitle" />
+
+            <item
+                android:id="@+id/item_navigation_drawer_user_lists"
+                android:icon="@drawable/usersl"
+                android:title="@string/contact" />
+      <!--  <item
+            android:id="@+id/item_navigation_drawer_user_places"
+            android:icon="@drawable/ic_action_location_found"
+            android:title="@string/place" />-->
+
+    </group>
+
+    <item android:title="@string/plus">
+        <menu>
+            <item
+                android:id="@+id/item_navigation_drawer_settings"
+                android:icon="@drawable/mr_ic_settings_dark"
+                android:title="@string/setting" />
+
+            <item
+                android:id="@+id/item_navigation_drawer_log_out"
+                android:icon="@drawable/ic_power_settings_new_black_24dp"
+                android:title="@string/btn_logout" />
+
+        </menu>
+    </item>
+
+</menu>

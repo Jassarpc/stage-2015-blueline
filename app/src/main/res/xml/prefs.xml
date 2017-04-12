@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="General Settings"/>
+    <SwitchPreference android:title="Langue fr" android:enabled="true"/>
+
+    <PreferenceCategory android:title="Account Settings"/>
+
+</PreferenceScreen>

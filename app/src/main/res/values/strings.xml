@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Argus Finder</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="plus">More</string>
+    <string name="doctitle">My files</string>
+    <string name="home">Home</string>
+    <string name="contact">Contacts</string>
+    <string name="place">Places</string>
+    <string name="parse">Parsing response from server</string>
+    <string name="loginin">Logging in...</string>
+    <string name="alreadyonalfresco">Please enter username that already exist in alfresco</string>
+    <string name="notmatched">Password does not matched</string>
+    <string name="matched">Password is ok</string>
+    <string name="already">Username ok</string>
+    <string name="available">Username not available</string>
+    <string name="passmin">Password must have 6 characters minimum</string>
+    <string name="setting">Settings</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_rpassword">Repeat password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="username">Username</string>
+    <string name="credentials">Please enter the credetials</string>
+    <string name="hint_email">Email</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_location">Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_document_list">T</string>
+</resources>
